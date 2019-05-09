@@ -1,0 +1,26 @@
+{
+  "name": "arcgoose-typegen",
+  "version": "0.0.1",
+  "description": "Converts a ArcGIS FeatureService into a collection of Typescript interfaces to use with esri/arcgoose",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "bin": {
+    "arcgoose-typings": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ech-beku/arcgoose-typegen.git"
+  },
+  "keywords": [
+    "arcgis",
+    "feature-service",
+    "typings"
+  ],
+  "author": "Beda Kuster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ech-beku/arcgoose-typegen/issues"
+  },
+  "homepage": "https://github.com/ech-beku/arcgoose-typegen#readme"
+}
