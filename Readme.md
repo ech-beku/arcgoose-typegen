@@ -1,5 +1,5 @@
 
-#Arcgoose Typegen
+# Arcgoose Typegen
 
 This tool generate Typescript Interfaces based on ArcGIS Feature Services to use with [esri/arcgoose](https://github.com/esri/arcgoose).
 
